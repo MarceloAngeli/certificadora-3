@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+backend/node_modules/
+
+# Environment Variables
+.env
+backend/.env
+
+# Build outputs
+dist/
+build/
+backend/dist/
+frontend/dist/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Prisma
+/backend/prisma/*.db
+/backend/prisma/*.db-journal
