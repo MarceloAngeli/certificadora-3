@@ -25,3 +25,7 @@ Thumbs.db
 # Prisma
 /backend/prisma/*.db
 /backend/prisma/*.db-journal
+
+#Front End 
+frontend/.env
+frontend/node_modules/
